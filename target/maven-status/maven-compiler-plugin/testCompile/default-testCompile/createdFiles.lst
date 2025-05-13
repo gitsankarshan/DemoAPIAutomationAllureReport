@@ -1,0 +1,3 @@
+testbase\BaseTest.class
+tests\UserTests.class
+requestPayloads\UserPayload.class
